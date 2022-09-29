@@ -1,14 +1,12 @@
 ## Movie Seat Booking
+티켓을 구매하기 위해 선택할 수 있는 극장의 영화 선택 및 좌석 표시를 할 수 있습니다.
 
-Display movie choices and seats in a theater to select from in order to purchase tickets
+## Project 
 
-## Project Specifications
+-영화 선택, 화면, 좌석, 범례 및 좌석 정보가 있는 디스플레이 UI
+-사용자가 영화/가격을 선택할 수 있습니다.
+-사용자가 좌석을 선택/선택 해제할 수 있습니다.
+-사용자는 점유 좌석을 선택할 수 없습니다
+-좌석 수 및 가격이 업데이트됩니다.
+-새로 고침 시 UI가 계속 채워지도록 좌석, 영화 및 가격을 로컬 저장소에 저장합니다.
 
-- Display UI with movie select, screen, seats, legend & seat info
-- User can select a movie/price
-- User can select/deselect seats
-- User can not select occupied seats
-- Number of seats and price will update
-- Save seats, movie and price to local storage so that UI is still populated on refresh
-
-Design inspiration from [Dribbble](https://dribbble.com/shots/3628370-Movie-Seat-Booking)
